@@ -7,7 +7,7 @@ use_crowdin_translations = true
 check_for_updates = true
 
 [host]
-ip = "0.0.0.0"
+ip = "127.0.0.1"
 port = 25565
 
 [voice]
