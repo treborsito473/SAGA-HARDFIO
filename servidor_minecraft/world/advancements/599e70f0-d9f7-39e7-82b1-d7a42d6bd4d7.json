@@ -24,6 +24,7 @@
       "minecraft:forest": "2025-06-16 00:41:51 +0000",
       "minecraft:windswept_forest": "2025-06-16 00:09:59 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-06-16 00:07:53 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-06-18 02:53:40 +0000",
       "minecraft:plains": "2025-06-16 00:35:49 +0000"
     },
     "done": false
@@ -739,7 +740,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-06-16 00:51:42 +0000",
-      "minecraft:zombie": "2025-06-16 00:13:15 +0000"
+      "minecraft:zombie": "2025-06-16 00:13:15 +0000",
+      "minecraft:drowned": "2025-06-18 02:50:04 +0000"
     },
     "done": false
   },
@@ -2819,6 +2821,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-06-18 02:54:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-18 02:38:59 +0000"
@@ -2861,6 +2869,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-06-18 02:54:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-06-18 02:54:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-18 02:38:59 +0000"
@@ -2894,6 +2914,12 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-06-18 02:38:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-06-18 02:54:13 +0000"
     },
     "done": true
   },
@@ -2969,6 +2995,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-06-18 02:54:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-06-18 02:38:59 +0000"
@@ -2999,6 +3031,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-06-18 02:54:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-06-18 02:38:59 +0000"
@@ -3014,6 +3052,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-18 02:38:59 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/redstone": {
+    "criteria": {
+      "has_redstone": "2025-06-18 02:54:13 +0000"
     },
     "done": true
   },
@@ -3041,6 +3085,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-06-18 02:54:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2025-06-18 02:38:59 +0000"
@@ -3065,9 +3115,21 @@
     },
     "done": true
   },
+  "toughasnails:recipes/tools/thermometer": {
+    "criteria": {
+      "has_redstone": "2025-06-18 02:54:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-18 02:38:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-06-18 02:54:13 +0000"
     },
     "done": true
   },
