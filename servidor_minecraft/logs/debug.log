@@ -7325,3 +7325,111 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [18Jun2025 02:38:10.464] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
 [18Jun2025 02:38:10.497] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
 [18Jun2025 02:38:10.527] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[18Jun2025 02:38:26.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported joaocover to -291.260000, 73.000000, -311.690000]
+[18Jun2025 02:38:31.561] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jun2025 02:38:31.762] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jun2025 02:38:31.963] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jun2025 02:38:32.112] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jun2025 02:38:32.662] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jun2025 02:38:33.203] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[18Jun2025 02:38:33.252] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[18Jun2025 02:38:34.597] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jun2025 02:38:35.596] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jun2025 02:38:35.912] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES moved too quickly! 9.566665958119984,-23.023936794707907,-9.749676312436634
+[18Jun2025 02:38:43.513] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jun2025 02:38:44.014] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jun2025 02:38:44.510] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jun2025 02:38:45.013] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jun2025 02:38:45.512] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jun2025 02:38:45.662] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jun2025 02:38:46.015] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jun2025 02:38:46.162] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jun2025 02:38:46.516] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jun2025 02:38:46.665] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jun2025 02:38:46.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover Hugged to death
+[18Jun2025 02:38:47.011] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jun2025 02:38:47.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES Hugged to death
+[18Jun2025 02:38:47.139] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES moved too quickly! 79.70257861582624,10.560748912706899,-66.99111172709593
+[18Jun2025 02:38:47.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set C0LIGAMES's game mode to Creative Mode
+[18Jun2025 02:38:48.217] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[18Jun2025 02:38:48.217] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[18Jun2025 02:38:48.223] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jun2025 02:38:52.362] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[18Jun2025 02:38:52.363] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[18Jun2025 02:38:52.393] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jun2025 02:38:56.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported C0LIGAMES to -294.500000, 72.500000, -312.500000]
+[18Jun2025 02:39:01.510] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jun2025 02:39:01.898] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jun2025 02:39:02.011] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jun2025 02:39:02.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover died from hugs while running away Grotesque steve
+[18Jun2025 02:39:02.165] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover moved too quickly! -5.3835670431925,-4.744561548993843,21.768892139799448
+[18Jun2025 02:39:03.282] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[18Jun2025 02:39:03.283] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[18Jun2025 02:39:03.325] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jun2025 02:39:22.160] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jun2025 02:39:24.461] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jun2025 02:39:24.747] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jun2025 02:39:24.960] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jun2025 02:39:25.036] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jun2025 02:39:25.046] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jun2025 02:39:25.460] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jun2025 02:39:25.662] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover moved too quickly! 69.29995280672995,-38.29910398187254,-21.132794253793236
+[18Jun2025 02:39:25.961] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jun2025 02:39:26.065] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jun2025 02:39:26.097] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jun2025 02:39:26.114] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jun2025 02:39:26.361] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jun2025 02:39:26.464] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jun2025 02:39:26.611] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jun2025 02:39:26.960] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jun2025 02:39:28.412] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jun2025 02:39:30.411] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jun2025 02:39:30.573] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jun2025 02:39:31.061] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jun2025 02:39:31.611] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jun2025 02:39:31.884] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover moved too quickly! 64.07280861418948,-13.558415990838057,-67.32420763893333
+[18Jun2025 02:39:32.260] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jun2025 02:39:32.261] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jun2025 02:39:32.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by C0LIGAMES
+[18Jun2025 02:39:32.411] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[18Jun2025 02:39:32.412] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[18Jun2025 02:39:32.449] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jun2025 02:39:32.918] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jun2025 02:39:33.459] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jun2025 02:39:34.115] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jun2025 02:39:35.261] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jun2025 02:39:43.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]
+[18Jun2025 02:40:10.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> toma tus cosas
+[18Jun2025 02:40:17.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported joaocover to -291.470000, 73.810000, -312.410000]
+[18Jun2025 02:40:20.257] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Jun2025 02:40:20.258] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jun2025 02:40:27.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> TODO
+[18Jun2025 02:40:34.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> EL HIERRO TAMBIEN
+[18Jun2025 02:40:37.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover has made the advancement [Diamonds!]
+[18Jun2025 02:40:46.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> a no
+[18Jun2025 02:40:52.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> los diamantes osn mios
+[18Jun2025 02:41:05.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> LO HAGO
+[18Jun2025 02:41:06.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> mis diamantes
+[18Jun2025 02:41:18.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> MI ESCUDO
+[18Jun2025 02:41:21.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> volvere a mi mina
+[18Jun2025 02:41:36.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> x2
+[18Jun2025 02:41:58.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Spectator Mode]
+[18Jun2025 02:42:05.818] [Server thread/DEBUG] [mixin/]: Mixing PiglinAiMixin from relics.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[18Jun2025 02:42:05.818] [Server thread/DEBUG] [mixin/]: relics.mixins.json:PiglinAiMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[18Jun2025 02:42:05.822] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[18Jun2025 02:42:35.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]
+[18Jun2025 02:42:35.739] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jun2025 02:42:51.608] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jun2025 02:43:05.211] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jun2025 02:43:19.321] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jun2025 02:43:19.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover fell from a high place
+[18Jun2025 02:43:20.552] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[18Jun2025 02:43:20.553] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[18Jun2025 02:43:20.574] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[18Jun2025 02:43:32.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Creative Mode]
+[18Jun2025 02:43:48.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]
+[18Jun2025 02:44:25.033] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jun2025 02:44:25.042] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jun2025 02:46:13.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Gave 1 [Silver Pickaxe] to C0LIGAMES]
+[18Jun2025 02:48:15.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> wow
+[18Jun2025 02:48:29.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ?
