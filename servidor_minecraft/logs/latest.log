@@ -302,3 +302,29 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [19Jun2025 01:49:26.261] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joaocover[/127.125.54.252:49091] logged in with entity id 1147 at (-207.76434334928197, -9.0, -255.61155555798194)
 [19Jun2025 01:49:26.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover joined the game
 [19Jun2025 01:50:57.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Spectator Mode]
+[19Jun2025 01:51:32.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set the time to 18000]
+[19Jun2025 01:51:39.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set the time to 6000]
+[19Jun2025 01:51:48.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set the time to 13000]
+[19Jun2025 01:52:10.092] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover lost connection: Disconnected
+[19Jun2025 01:52:10.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover left the game
+[19Jun2025 01:52:15.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set the time to 1000]
+[19Jun2025 01:53:34.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set the time to 12000]
+[19Jun2025 01:54:20.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set the time to 12000]
+[19Jun2025 01:55:41.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Creative Mode]
+[19Jun2025 01:57:58.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Gave 1 [Item Frame] to C0LIGAMES]
+[19Jun2025 02:00:00.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported C0LIGAMES to -439.500000, 9.500000, -210.500000]
+[19Jun2025 02:00:46.789] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Disconnected
+[19Jun2025 02:00:46.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
+[19Jun2025 02:00:55.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[19Jun2025 02:00:55.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[19Jun2025 02:00:55.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[19Jun2025 02:00:55.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[19Jun2025 02:00:55.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19Jun2025 02:00:55.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19Jun2025 02:00:55.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19Jun2025 02:00:55.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/grotesque_steve:stomach
+[19Jun2025 02:00:55.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19Jun2025 02:00:55.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19Jun2025 02:00:55.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19Jun2025 02:00:55.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (stomach): All chunks are saved
+[19Jun2025 02:00:55.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
