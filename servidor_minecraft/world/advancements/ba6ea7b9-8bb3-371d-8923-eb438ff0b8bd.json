@@ -3043,5 +3043,335 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-06-21 00:44:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-06-21 00:44:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-06-21 00:44:35 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/tin_longsword": {
+    "criteria": {
+      "has_tin_ingot": "2025-06-21 00:46:19 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/tin_glaive": {
+    "criteria": {
+      "has_tin_ingot": "2025-06-21 00:46:19 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/tin_parrying_dagger": {
+    "criteria": {
+      "has_tin_ingot": "2025-06-21 00:46:19 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/tin_dagger": {
+    "criteria": {
+      "has_tin_ingot": "2025-06-21 00:46:19 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/tin_halberd": {
+    "criteria": {
+      "has_tin_ingot": "2025-06-21 00:46:19 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/tin_battleaxe": {
+    "criteria": {
+      "has_tin_ingot": "2025-06-21 00:46:19 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/tin_javelin": {
+    "criteria": {
+      "has_tin_ingot": "2025-06-21 00:46:19 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/tin_boomerang": {
+    "criteria": {
+      "has_tin_ingot": "2025-06-21 00:46:19 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/tin_greatsword": {
+    "criteria": {
+      "has_tin_ingot": "2025-06-21 00:46:19 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/tin_spear": {
+    "criteria": {
+      "has_tin_ingot": "2025-06-21 00:46:19 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/tin_tower_shield": {
+    "criteria": {
+      "has_tin_ingot": "2025-06-21 00:46:19 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/tin_tomahawk": {
+    "criteria": {
+      "has_tin_ingot": "2025-06-21 00:46:19 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/tin_flanged_mace": {
+    "criteria": {
+      "has_tin_ingot": "2025-06-21 00:46:19 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/tin_scythe": {
+    "criteria": {
+      "has_tin_ingot": "2025-06-21 00:46:19 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/tin_saber": {
+    "criteria": {
+      "has_tin_ingot": "2025-06-21 00:46:19 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/tin_quarterstaff": {
+    "criteria": {
+      "has_tin_ingot": "2025-06-21 00:46:19 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/tin_longbow": {
+    "criteria": {
+      "has_tin_ingot": "2025-06-21 00:46:19 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/tin_heavy_crossbow": {
+    "criteria": {
+      "has_tin_ingot": "2025-06-21 00:46:19 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/tin_battle_hammer": {
+    "criteria": {
+      "has_tin_ingot": "2025-06-21 00:46:19 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/tin_pike": {
+    "criteria": {
+      "has_tin_ingot": "2025-06-21 00:46:19 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/tin_warhammer": {
+    "criteria": {
+      "has_tin_ingot": "2025-06-21 00:46:19 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/tin_basic_shield": {
+    "criteria": {
+      "has_tin_ingot": "2025-06-21 00:46:19 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/tin_lance": {
+    "criteria": {
+      "has_tin_ingot": "2025-06-21 00:46:19 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/tin_throwing_knife": {
+    "criteria": {
+      "has_tin_ingot": "2025-06-21 00:46:19 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/tin_katana": {
+    "criteria": {
+      "has_tin_ingot": "2025-06-21 00:46:19 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/tin_rapier": {
+    "criteria": {
+      "has_tin_ingot": "2025-06-21 00:46:19 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/bronze_dagger": {
+    "criteria": {
+      "has_bronze_ingot": "2025-06-21 00:46:28 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/bronze_rapier": {
+    "criteria": {
+      "has_bronze_ingot": "2025-06-21 00:46:28 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/bronze_pike": {
+    "criteria": {
+      "has_bronze_ingot": "2025-06-21 00:46:28 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/bronze_quarterstaff": {
+    "criteria": {
+      "has_bronze_ingot": "2025-06-21 00:46:28 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/bronze_javelin": {
+    "criteria": {
+      "has_bronze_ingot": "2025-06-21 00:46:28 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/bronze_basic_shield": {
+    "criteria": {
+      "has_bronze_ingot": "2025-06-21 00:46:28 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/bronze_boomerang": {
+    "criteria": {
+      "has_bronze_ingot": "2025-06-21 00:46:28 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/bronze_heavy_crossbow": {
+    "criteria": {
+      "has_bronze_ingot": "2025-06-21 00:46:28 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/bronze_glaive": {
+    "criteria": {
+      "has_bronze_ingot": "2025-06-21 00:46:28 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/bronze_flanged_mace": {
+    "criteria": {
+      "has_bronze_ingot": "2025-06-21 00:46:28 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/bronze_battleaxe": {
+    "criteria": {
+      "has_bronze_ingot": "2025-06-21 00:46:28 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/bronze_greatsword": {
+    "criteria": {
+      "has_bronze_ingot": "2025-06-21 00:46:28 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/bronze_throwing_knife": {
+    "criteria": {
+      "has_bronze_ingot": "2025-06-21 00:46:28 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/bronze_tower_shield": {
+    "criteria": {
+      "has_bronze_ingot": "2025-06-21 00:46:28 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/bronze_halberd": {
+    "criteria": {
+      "has_bronze_ingot": "2025-06-21 00:46:28 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/bronze_lance": {
+    "criteria": {
+      "has_bronze_ingot": "2025-06-21 00:46:28 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/bronze_katana": {
+    "criteria": {
+      "has_bronze_ingot": "2025-06-21 00:46:28 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/bronze_battle_hammer": {
+    "criteria": {
+      "has_bronze_ingot": "2025-06-21 00:46:28 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/bronze_spear": {
+    "criteria": {
+      "has_bronze_ingot": "2025-06-21 00:46:28 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/bronze_warhammer": {
+    "criteria": {
+      "has_bronze_ingot": "2025-06-21 00:46:28 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/bronze_scythe": {
+    "criteria": {
+      "has_bronze_ingot": "2025-06-21 00:46:28 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/bronze_parrying_dagger": {
+    "criteria": {
+      "has_bronze_ingot": "2025-06-21 00:46:28 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/bronze_longsword": {
+    "criteria": {
+      "has_bronze_ingot": "2025-06-21 00:46:28 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/bronze_longbow": {
+    "criteria": {
+      "has_bronze_ingot": "2025-06-21 00:46:28 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/bronze_saber": {
+    "criteria": {
+      "has_bronze_ingot": "2025-06-21 00:46:28 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/bronze_tomahawk": {
+    "criteria": {
+      "has_bronze_ingot": "2025-06-21 00:46:28 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
