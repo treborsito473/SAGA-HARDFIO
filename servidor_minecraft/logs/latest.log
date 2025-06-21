@@ -346,3 +346,22 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [21Jun2025 18:14:05.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> SERA ALBOLES
 [21Jun2025 18:14:46.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to joaocover: como tas?
 [21Jun2025 18:14:51.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> JOYA
+[21Jun2025 18:15:17.752] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{joaocover})
+[21Jun2025 18:15:24.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> cada ves con mas vida
+[21Jun2025 18:16:50.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> creo que se cierra el serve eh?
+[21Jun2025 18:16:56.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD?
+[21Jun2025 18:17:10.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to joaocover: yo nunca cerrare
+[21Jun2025 18:17:20.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> FACTOS
+[21Jun2025 18:17:53.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> los gatos tienen problemas como que estan glicheados
+[21Jun2025 18:18:51.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover tried to swim in lava
+[21Jun2025 18:18:51.241] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for joaocover with unique ID travelersbackpack.standard_21.06.2025-18.18.51.dat
+[21Jun2025 18:18:52.535] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[21Jun2025 18:18:52.536] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[21Jun2025 18:20:02.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was slain by Zombie
+[21Jun2025 18:20:02.831] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for C0LIGAMES with unique ID travelersbackpack.standard_21.06.2025-18.20.02.dat
+[21Jun2025 18:20:04.115] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[21Jun2025 18:20:04.116] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[21Jun2025 18:20:07.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> f
+[21Jun2025 18:20:39.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> bueno bye
+[21Jun2025 18:20:41.338] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover lost connection: Disconnected
+[21Jun2025 18:20:41.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover left the game
