@@ -3380,15 +3380,15 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_copper_metal_leggings": {
-    "criteria": {
-      "has_the_recipe": "2025-06-21 01:14:18 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:root": {
     "criteria": {
       "has_handle": "2025-06-21 01:13:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_metal_leggings": {
+    "criteria": {
+      "has_the_recipe": "2025-06-21 01:14:18 +0000"
     },
     "done": true
   },
