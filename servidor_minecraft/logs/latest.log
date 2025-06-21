@@ -310,3 +310,13 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [21Jun2025 17:54:52.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Banned C0LIGAMES: Banned by an operator.
 [21Jun2025 17:54:52.535] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: You are banned from this server
 [21Jun2025 17:54:52.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
+[21Jun2025 17:55:14.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[21Jun2025 17:55:14.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...S//pardon C0LIGAMAES<--[HERE]
+[21Jun2025 17:55:21.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unbanned C0LIGAMES
+[21Jun2025 17:57:33.685] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4c173769[id=<null>,name=C0LIGAMES,properties={},legacy=false] (/127.53.118.236:52429) lost connection: Disconnected
+[21Jun2025 17:58:06.379] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@62a6fb62[id=<null>,name=C0LIGAMES,properties={},legacy=false] (/127.53.118.236:37637) lost connection: Disconnected
+[21Jun2025 17:58:16.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> LA INTELIGENCIA ES RELATIVA
+[21Jun2025 17:58:38.232] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4005a608[id=<null>,name=C0LIGAMES,properties={},legacy=false] (/127.53.118.236:55951) lost connection: Disconnected
+[21Jun2025 17:58:45.494] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: C0LIGAMES[/127.53.118.236:54319] logged in with entity id 2417 at (-332.40626331024106, 15.0, -197.31830441682234)
+[21Jun2025 17:58:45.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
+[21Jun2025 18:02:05.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover has made the advancement [They Have a Cave Troll!]
