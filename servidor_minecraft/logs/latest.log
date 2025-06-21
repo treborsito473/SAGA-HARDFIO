@@ -365,3 +365,16 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [21Jun2025 01:40:17.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to C0LIGAMES: entonces te dejan solo?
 [21Jun2025 01:40:27.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD?
 [21Jun2025 01:40:41.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> tengo mas amigos q tu kbro
+[21Jun2025 01:41:27.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to C0LIGAMES: si si bueno buena suerte
+[21Jun2025 01:41:33.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to C0LIGAMES: lo que mas te falta
+[21Jun2025 01:41:38.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> a bueno
+[21Jun2025 01:41:41.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> JODETE
+[21Jun2025 01:44:35.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown game mode: spectato
+[21Jun2025 01:44:35.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...e spectato C0LIGAMES<--[HERE]
+[21Jun2025 01:44:48.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set C0LIGAMES's game mode to Spectator Mode
+[21Jun2025 01:48:37.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set C0LIGAMES's game mode to Survival Mode
+[21Jun2025 01:48:39.645] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Disconnected
+[21Jun2025 01:48:39.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
+[21Jun2025 01:48:39.715] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[21Jun2025 01:49:05.799] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: C0LIGAMES[/127.53.118.236:35965] logged in with entity id 6678 at (-331.38382043849293, 15.0, -205.69999998807907)
+[21Jun2025 01:49:05.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
